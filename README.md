@@ -23,3 +23,6 @@ split randomly with added noise to split location, random colors (removed lines)
 
 messing with the code (shrink boxes leave lines)
 ![alt text](https://github.com/RaubCamaioni/Beautiful_Boxes/blob/master/images/messing_with_the_code.PNG)
+
+removing even split constraint (had some naive code that needed to be changed)
+![alt text](https://github.com/RaubCamaioni/Beautiful_Boxes/blob/master/images/glass_pane.PNG)
