@@ -10,6 +10,7 @@ for synthetic circuit diagram images.
 Below are a few example outputs. Vary a couple different parameters for different outputs. 
 
 split by the aspect ratio (always split along the long side) random colors :)
+the pattern is interesting and unintended. probably caused by some rounding error and recursion depth
 ![alt text](https://github.com/RaubCamaioni/Beautiful_Boxes/blob/master/images/even_split_random_colors.PNG)
 
 split aspect with added noise to split location, random colors
